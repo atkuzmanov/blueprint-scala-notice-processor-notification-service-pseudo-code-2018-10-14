@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="default"
+		module="scala-notice-processor-notification-service-pseudo-code-2018-10-14$sources_2.11"
+		revision="1.0"
+		conf="sources"
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
+		date="20181014193840"/>
+	<dependencies>
+	</dependencies>
+</ivy-report>
